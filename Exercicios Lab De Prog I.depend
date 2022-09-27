@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663962993 source:c:\users\rafae\desktop\exercicios lab de prog i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
